@@ -32,7 +32,7 @@ sudo apt install git -y
 
 ### 5. Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/devops-linux-git-ec2-deployment.git
+git clone https://github.com/kamthednyaneshwari80/devops-linux-git-ec2-deployment.git
 cd devops-linux-git-ec2-deployment
 
 ### 6. Install Nginx
